@@ -1,5 +1,6 @@
 # Arthian-Map
-This repository is meant to be a historical record of the geography of Easorhn.
+This repository is meant to be a historical record of the geography of Easorhn. [The map itself can be viewed here.|https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https://raw.githubusercontent.com/OhMyTallest-Productions/Arthian-Map/master/Arthia-main.map&x=2100&y=1040&scale=1.2]
+
 ### Geography
 **Greater Arthia** is a large empire covering most of the Eastern and Western continents of **Easorhn**. 
 
