@@ -10,3 +10,7 @@ The central channel bisecting the empire is known simply as **the Bore**. Due to
 A large frontier extends to the East from the settled realms of **Greater Arthia**; **Kargonia** is located centrally in this frontier zone.
 
 There are three metropli other than the capitol in the empire, **Kargonia** in the northeast frontier, (a yet to be named and located city), and the **Nyissan** port of **Ischia** to the west across **the Bore**. There is a large frontier city, though not quite a metropolis, named **Manteflaro** located on the southeastern shore at the mouth of the river **Nespo**.
+
+Another kingdom of note with it's own ongoing Campaign is the **Tsardom of Mevozy**. It is predominately good-aligned and of Slavic origins. (I'll let the GMs of that campaign add comments here once they notice this addition)
+
+TODO: Add a list and blurb for each kingdom on this world to this document so it isn't Arthia-centric.
