@@ -5,9 +5,9 @@ This repository is meant to be a historical record of the geography of Easorhn. 
 
 #### Major Kingdoms
 
-[**Greater Arthian Empire**](#Greater Arthian Empire)
+[Greater Arthian Empire](#greater-arthian-empire)
 **Principality of Eraia**
-[**The Tsardom of Mevozy**](#The Tsardom of Mevozy)
+[The Tsardom of Mevozy](#the-tsardom-of-mevozy)
 **United Provinces of Vogovo**
 
 #### Minor Kingdoms
