@@ -5,27 +5,27 @@ This repository is meant to be a historical record of the geography of Easorhn. 
 
 #### Major Kingdoms
 
-[Greater Arthian Empire](#greater-arthian-empire)
-**Principality of Eraia**
-[The Tsardom of Mevozy](#the-tsardom-of-mevozy)
-**United Provinces of Vogovo**
+[Greater Arthian Empire](#greater-arthian-empire)  
+**Principality of Eraia**  
+[The Tsardom of Mevozy](#the-tsardom-of-mevozy)  
+**United Provinces of Vogovo**  
 
 #### Minor Kingdoms
 
-**Duchy of Boskirhamp**
-**Duchy of Voyagastia**
-**Leheimese Trade Company**
-**United Kingdom of Compoundia**
+**Duchy of Boskirhamp**  
+**Duchy of Voyagastia**  
+**Leheimese Trade Company**  
+**United Kingdom of Compoundia**  
 
 #### Petty Kingdoms
 
-**Athamberingia**
-**Granforgia**
-**Dankheim**
-**Despotate of Toinu**
-**Havandia**
-**Laranwood**
-**Kanu**
+**Athamberingia**  
+**Granforgia**  
+**Dankheim**  
+**Despotate of Toinu**  
+**Havandia**  
+**Laranwood**  
+**Kanu**  
 
 ##### Greater Arthian Empire
 **Greater Arthia** is a large empire covering most of the Eastern and Western continents of **Easorhn**. 
@@ -41,9 +41,9 @@ There are three metropli other than the capitol in the empire, **Kargonia** in t
 Another kingdom of note with it's own ongoing Campaign is the **Tsardom of Mevozy**. It is predominately good-aligned and of Slavic origins. (I'll let the GMs of that campaign add comments here once they notice this addition)
 
 ###### TODO
-TODO: Add a blurb for each kingdom (with anchor links in the list at the top of the document) on this world to this document so it isn't Arthia-centric.
+TODO: Add a blurb for each kingdom (with anchor links in the list at the top of the document) on this world to this document so it isn't Arthia-centric.  
 
-TODO: Rename this repository to Easorhn-Map to further remove that Arthia-cetrism.
+TODO: Rename this repository to Easorhn-Map to further remove that Arthia-cetrism.  
 
-TODO: Change `master` branch to `main` branch so I'm not fat fingering my repos and they all match the same layout.
+TODO: Change `master` branch to `main` branch so I'm not fat fingering my repos and they all match the same layout.  
 
