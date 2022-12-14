@@ -26,6 +26,7 @@ This repository is meant to be a historical record of the geography of Easorhn. 
 **Havandia**  
 **Laranwood**  
 **Kanu**  
+**thaczil di wer Vutha Ternock**  
 
 ##### Greater Arthian Empire
 **Greater Arthia** is a large empire covering most of the Eastern and Western continents of **Easorhn**. 
