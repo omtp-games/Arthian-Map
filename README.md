@@ -46,5 +46,5 @@ TODO: Add a blurb for each kingdom (with anchor links in the list at the top of 
 
 TODO: Rename this repository to Easorhn-Map to further remove that Arthia-cetrism.  
 
-TODO: Change `master` branch to `main` branch so I'm not fat fingering my repos and they all match the same layout.  
+~~TODO: Change `master` branch to `main` branch so I'm not fat fingering my repos and they all match the same layout.~~
 
