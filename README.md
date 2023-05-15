@@ -1,5 +1,5 @@
 # Arthian-Map
-This repository is meant to be a historical record of the geography of Easorhn. [The map itself can be viewed here.](https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https%3A%2F%2Fraw.githubusercontent.com%2FOhMyTallest-Productions%2FArthian-Map%2Fmaster%2FArthia-main.map&x=1750&y=950&scale=0.9)
+This repository is meant to be a historical record of the geography of Easorhn. [The map itself can be viewed here.](https://azgaar.github.io/Fantasy-Map-Generator/?maplink=https://raw.githubusercontent.com/omtp-games/Arthian-Map/main/Arthia-main.map&x=1750&y=950&scale=0.9)
 
 ### Geography
 
