@@ -39,7 +39,7 @@ A large frontier extends to the East from the settled realms of **Greater Arthia
 There are three metropli other than the capitol in the empire, **Kargonia** in the northeast frontier, (a yet to be named and located city), and the **Nyissan** port of **Ischia** to the west across **the Bore**. There is a large frontier city, though not quite a metropolis, named **Manteflaro** located on the southeastern shore at the mouth of the river **Nespo**.
 
 ##### The Tsardom of Mevozy
-Another kingdom of note with it's own ongoing Campaign is the **Tsardom of Mevozy**. It is predominately good-aligned and of Slavic origins. (I'll let the GMs of that campaign add comments here once they notice this addition)
+Another kingdom of note with it's own ongoing Campaign is the **Tsardom of Mevozy**. It is predominately lawful-aligned and of Slavic origins, and is [detailed in its own repository](https://github.com/temujin9/mezovy) (players: here be spoilers, beware).
 
 ###### TODO
 TODO: Add a blurb for each kingdom (with anchor links in the list at the top of the document) on this world to this document so it isn't Arthia-centric.  
